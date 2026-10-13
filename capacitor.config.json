@@ -1,0 +1,8 @@
+{
+  "appId": "id.sch.man2gresik.mandagres",
+  "appName": "Mandagres",
+  "webDir": "www",
+  "backgroundColor": "#022c22",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}
